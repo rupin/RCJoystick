@@ -9,4 +9,6 @@ The need to design the board was to run a class on Aeromodelling.
 
 The setup was as such where I can demonstrate on a projector how to fly an airplane, then the Transmitter can travel through the class as each student pilots the craft, while others watch. 
 
+<img src="RC Joystick.png" width="500"/>
+
 
